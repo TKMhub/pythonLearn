@@ -19,7 +19,7 @@ class TestCal(object):
 
     @classmethod
     def teardown_class(cls):
-        def cls.cal
+        cls.cal
 
     def setup_method(self, method):
         print('method={}'.format(method.__name__))
