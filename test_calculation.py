@@ -34,6 +34,7 @@ class TestCal(object):
         cal = calculation.Cal()
         assert cal.add_num_and_double(1,1) == 4
 
+
     # 例外処理のテスト
     # def test_add_num_and_double_raise(self):
     #     with pytest.raises(ValueError):
